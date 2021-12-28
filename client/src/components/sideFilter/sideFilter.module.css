@@ -1,0 +1,24 @@
+.filterContainer {
+  height: 100vh;
+  margin-right: 39px;
+}
+.inputBox {
+  border: 3px rgba(182, 182, 182, 0.411) solid;
+  width: 240px;
+  padding: 3px 20px;
+  box-sizing: border-box;
+}
+.customerReviewsWrap {
+  width: 240px;
+  box-sizing: border-box;
+}
+.reviewBtns {
+  border: none;
+  padding: 5px;
+  border-radius: 4px;
+  margin: 5px 5px 0 0;
+  cursor: pointer;
+}
+.reviewBtns:hover {
+  background-color: rgba(197, 197, 197, 0.562);
+}

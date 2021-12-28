@@ -1,0 +1,7 @@
+.App {
+  padding: 10px;
+}
+.contentWrap {
+  display: flex;
+  flex-direction: row;
+}
